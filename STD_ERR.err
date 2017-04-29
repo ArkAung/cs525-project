@@ -96,3 +96,95 @@ I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow devi
 [W 21:35:24.556 NotebookApp] delete /MFCC Model.ipynb
 [I 21:36:25.319 NotebookApp] Saving file at /MFCC By Year (All Cuts) - Keras.ipynb
 [I 21:38:25.622 NotebookApp] Saving file at /MFCC By Year (All Cuts) - Keras.ipynb
+[I 21:40:25.903 NotebookApp] Saving file at /MFCC By Year (All Cuts) - Keras.ipynb
+[I 21:42:00.567 NotebookApp] Saving file at /README.md
+[I 21:42:25.907 NotebookApp] Saving file at /MFCC By Year (All Cuts) - Keras.ipynb
+[I 21:43:05.641 NotebookApp] Saving file at /README.md
+[I 21:43:06.517 NotebookApp] Saving file at /README.md
+[I 21:43:33.418 NotebookApp] Saving file at /README.md
+[W 21:44:18.030 NotebookApp] delete /BD15C_chunk
+[W 21:44:18.080 NotebookApp] Directory /home/aaung/cs525-project/BD15C_chunk not empty
+[W 21:44:18.081 NotebookApp] 400 DELETE /api/contents/BD15C_chunk (10.141.255.254) 52.65ms referer=http://localhost:9291/tree?token=2e3484ca4f1a822da91cdeb04a669fcaea93a7e046dd0914
+[W 21:44:18.084 NotebookApp] delete /BD6A_chunk
+[W 21:44:18.104 NotebookApp] Directory /home/aaung/cs525-project/BD6A_chunk not empty
+[W 21:44:18.104 NotebookApp] 400 DELETE /api/contents/BD6A_chunk (10.141.255.254) 22.18ms referer=http://localhost:9291/tree?token=2e3484ca4f1a822da91cdeb04a669fcaea93a7e046dd0914
+[W 21:44:18.107 NotebookApp] delete /BD6B_chunk
+[W 21:44:18.122 NotebookApp] Directory /home/aaung/cs525-project/BD6B_chunk not empty
+[W 21:44:18.122 NotebookApp] 400 DELETE /api/contents/BD6B_chunk (10.141.255.254) 17.52ms referer=http://localhost:9291/tree?token=2e3484ca4f1a822da91cdeb04a669fcaea93a7e046dd0914
+[W 21:44:18.145 NotebookApp] delete /brain_cnn.ipynb
+[W 21:44:18.157 NotebookApp] delete /Latest Francisco-Copy1.ipynb
+[W 21:44:18.169 NotebookApp] delete /Latest Francisco.ipynb
+[W 21:44:18.179 NotebookApp] delete /BD15L_chunk
+[W 21:44:18.223 NotebookApp] Directory /home/aaung/cs525-project/BD15L_chunk not empty
+[W 21:44:18.223 NotebookApp] 400 DELETE /api/contents/BD15L_chunk (10.141.255.254) 46.14ms referer=http://localhost:9291/tree?token=2e3484ca4f1a822da91cdeb04a669fcaea93a7e046dd0914
+[W 21:44:18.226 NotebookApp] delete /Latest Francisco-Copy2.ipynb
+[I 21:44:25.348 NotebookApp] Saving file at /MFCC By Year (All Cuts) - Keras.ipynb
+[I 21:46:25.346 NotebookApp] Saving file at /MFCC By Year (All Cuts) - Keras.ipynb
+[I 21:46:57.532 NotebookApp] Saving file at /MFCC By Year (All Cuts) - Keras.ipynb
+[I 21:46:58.125 NotebookApp] Saving file at /MFCC By Year (All Cuts) - Keras.ipynb
+[I 21:47:06.353 NotebookApp] Kernel shutdown: 20992397-3374-42a9-a270-c9474b98a6e3
+[I 21:47:07.368 NotebookApp] Kernel shutdown: a57888e1-6489-4bc2-bf78-eb989cfe8b05
+[I 21:47:17.793 NotebookApp] Kernel started: 504d0380-a19b-4257-aef6-7e4ca4964925
+[I 21:47:23.269 NotebookApp] Kernel shutdown: 504d0380-a19b-4257-aef6-7e4ca4964925
+[I 21:47:26.376 NotebookApp] Kernel started: 66d4777b-ceb6-439f-9b6e-ba0b1d8ad4d9
+[I 21:47:30.936 NotebookApp] Kernel started: d4005333-d22f-410e-9298-f311dd36d774
+[I 21:47:41.990 NotebookApp] Kernel shutdown: d4005333-d22f-410e-9298-f311dd36d774
+[W 21:47:43.695 NotebookApp] Notebook MFCC Rectangular Kernel (All Cuts).ipynb is not trusted
+[I 21:47:44.089 NotebookApp] Kernel started: f5020eef-576f-42b8-b779-00536552d647
+[I 21:47:58.391 NotebookApp] Kernel restarted: f5020eef-576f-42b8-b779-00536552d647
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcublas.so.8.0 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcudnn.so.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcufft.so.8.0 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcurand.so.8.0 locally
+[I 21:48:49.033 NotebookApp] Saving file at /MFCC Rectangular Kernel (All Cuts).ipynb
+[I 21:49:05.411 NotebookApp] Saving file at /MFCC Rectangular Kernel (All Cuts).ipynb
+[I 21:49:09.882 NotebookApp] Kernel restarted: f5020eef-576f-42b8-b779-00536552d647
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcublas.so.8.0 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcudnn.so.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcufft.so.8.0 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcurand.so.8.0 locally
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
+name: Tesla K20m
+major: 3 minor: 5 memoryClockRate (GHz) 0.758
+pciBusID 0000:03:00.0
+Total memory: 4.66GiB
+Free memory: 4.59GiB
+W tensorflow/stream_executor/cuda/cuda_driver.cc:590] creating context when one is currently active; existing: 0x3ff62f0
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 1 with properties: 
+name: Tesla K20m
+major: 3 minor: 5 memoryClockRate (GHz) 0.758
+pciBusID 0000:83:00.0
+Total memory: 4.66GiB
+Free memory: 4.59GiB
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:777] Peer access not supported between device ordinals 0 and 1
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:777] Peer access not supported between device ordinals 1 and 0
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 1 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y N 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 1:   N Y 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: Tesla K20m, pci bus id: 0000:03:00.0)
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:1) -> (device: 1, name: Tesla K20m, pci bus id: 0000:83:00.0)
+[I 21:49:25.927 NotebookApp] Kernel started: d27e137f-b7df-4649-8df1-394c927c7b5d
+[I 21:49:34.115 NotebookApp] Kernel started: 2ea1bb82-0633-49cf-8212-c4c1baefccc1
+[I 21:49:44.133 NotebookApp] Saving file at /MFCC Rectangular Kernel (All Cuts).ipynb
+[I 21:50:12.251 NotebookApp] Saving file at /README.md
+[I 21:50:34.023 NotebookApp] Saving file at /README.md
+[I 21:51:01.157 NotebookApp] Saving file at /MFCC Rectangular Kernel (All Cuts).ipynb
+[I 21:51:06.073 NotebookApp] Kernel shutdown: f5020eef-576f-42b8-b779-00536552d647
+[I 21:51:09.555 NotebookApp] Kernel shutdown: 2ea1bb82-0633-49cf-8212-c4c1baefccc1
+[I 21:51:12.873 NotebookApp] Kernel shutdown: d27e137f-b7df-4649-8df1-394c927c7b5d
+[I 21:54:47.453 NotebookApp] Saving file at /README.md
+[I 21:54:56.507 NotebookApp] Saving file at /README.md
+[I 21:54:56.672 NotebookApp] Saving file at /README.md
+[I 21:54:56.798 NotebookApp] Saving file at /README.md
+[I 21:55:04.424 NotebookApp] Saving file at /README.md
+[I 21:55:05.309 NotebookApp] Saving file at /README.md
+[I 21:55:06.455 NotebookApp] Saving file at /README.md
+[I 21:55:07.406 NotebookApp] Saving file at /README.md
+[I 21:55:36.473 NotebookApp] Saving file at /README.md
+[I 21:55:36.742 NotebookApp] Saving file at /README.md
