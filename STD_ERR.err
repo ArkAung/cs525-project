@@ -1,0 +1,98 @@
+[I 21:19:15.723 NotebookApp] Serving notebooks from local directory: /home/aaung/cs525-project
+[I 21:19:15.723 NotebookApp] 0 active kernels 
+[I 21:19:15.723 NotebookApp] The Jupyter Notebook is running at: http://10.141.0.1:9291/?token=2e3484ca4f1a822da91cdeb04a669fcaea93a7e046dd0914
+[I 21:19:15.723 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 21:19:15.727 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://10.141.0.1:9291/?token=2e3484ca4f1a822da91cdeb04a669fcaea93a7e046dd0914
+[I 21:22:07.191 NotebookApp] Malformed HTTP message from 10.141.255.254: Malformed HTTP headers: ''
+[I 21:22:40.446 NotebookApp] 302 GET /?token=2e3484ca4f1a822da91cdeb04a669fcaea93a7e046dd0914 (10.141.255.254) 0.55ms
+[I 21:22:52.970 NotebookApp] Kernel started: b6e7c5c9-bafd-47cc-8ce9-5ba3d2dbce3f
+[I 21:23:50.140 NotebookApp] Saving file at /MFCC Stratify.ipynb
+[I 21:24:15.997 NotebookApp] Kernel restarted: b6e7c5c9-bafd-47cc-8ce9-5ba3d2dbce3f
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcublas.so.8.0 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcudnn.so.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcufft.so.8.0 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcurand.so.8.0 locally
+[I 21:25:03.776 NotebookApp] Saving file at /MFCC Best of Cuts (2D Conv) (Stratified Sampling).ipynb
+[I 21:26:35.310 NotebookApp] Kernel restarted: b6e7c5c9-bafd-47cc-8ce9-5ba3d2dbce3f
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcublas.so.8.0 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcudnn.so.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcufft.so.8.0 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcurand.so.8.0 locally
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
+name: Tesla K20m
+major: 3 minor: 5 memoryClockRate (GHz) 0.758
+pciBusID 0000:03:00.0
+Total memory: 4.66GiB
+Free memory: 4.59GiB
+W tensorflow/stream_executor/cuda/cuda_driver.cc:590] creating context when one is currently active; existing: 0x3f647a0
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 1 with properties: 
+name: Tesla K20m
+major: 3 minor: 5 memoryClockRate (GHz) 0.758
+pciBusID 0000:83:00.0
+Total memory: 4.66GiB
+Free memory: 4.59GiB
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:777] Peer access not supported between device ordinals 0 and 1
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:777] Peer access not supported between device ordinals 1 and 0
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 1 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y N 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 1:   N Y 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: Tesla K20m, pci bus id: 0000:03:00.0)
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:1) -> (device: 1, name: Tesla K20m, pci bus id: 0000:83:00.0)
+[I 21:27:03.345 NotebookApp] Saving file at /MFCC Best of Cuts (2D Conv) (Stratified Sampling).ipynb
+[I 21:29:07.333 NotebookApp] Saving file at /MFCC Best of Cuts (2D Conv) (Stratified Sampling).ipynb
+[I 21:30:12.695 NotebookApp] Saving file at /MFCC Best of Cuts (2D Conv) (Stratified Sampling).ipynb
+[W 21:30:22.309 NotebookApp] Notebook MFCC Model.ipynb is not trusted
+[I 21:30:23.505 NotebookApp] Kernel started: df7d7a4c-d894-4236-bd11-967662137479
+[I 21:30:25.329 NotebookApp] Kernel started: 20992397-3374-42a9-a270-c9474b98a6e3
+[W 21:30:33.666 NotebookApp] Timeout waiting for kernel_info reply from df7d7a4c-d894-4236-bd11-967662137479
+[W 21:30:35.675 NotebookApp] Timeout waiting for kernel_info reply from 20992397-3374-42a9-a270-c9474b98a6e3
+[I 21:31:49.843 NotebookApp] Kernel interrupted: b6e7c5c9-bafd-47cc-8ce9-5ba3d2dbce3f
+[I 21:32:05.774 NotebookApp] Kernel interrupted: b6e7c5c9-bafd-47cc-8ce9-5ba3d2dbce3f
+[I 21:32:29.599 NotebookApp] Saving file at /MFCC Best of Cuts (2D Conv) (Stratified Sampling).ipynb
+[I 21:32:48.301 NotebookApp] Kernel shutdown: b6e7c5c9-bafd-47cc-8ce9-5ba3d2dbce3f
+[I 21:32:51.935 NotebookApp] Kernel restarted: 20992397-3374-42a9-a270-c9474b98a6e3
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcublas.so.8.0 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcudnn.so.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcufft.so.8.0 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcurand.so.8.0 locally
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
+name: Tesla K20m
+major: 3 minor: 5 memoryClockRate (GHz) 0.758
+pciBusID 0000:03:00.0
+Total memory: 4.66GiB
+Free memory: 4.59GiB
+W tensorflow/stream_executor/cuda/cuda_driver.cc:590] creating context when one is currently active; existing: 0x3f45250
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 1 with properties: 
+name: Tesla K20m
+major: 3 minor: 5 memoryClockRate (GHz) 0.758
+pciBusID 0000:83:00.0
+Total memory: 4.66GiB
+Free memory: 4.59GiB
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:777] Peer access not supported between device ordinals 0 and 1
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:777] Peer access not supported between device ordinals 1 and 0
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 1 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y N 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 1:   N Y 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: Tesla K20m, pci bus id: 0000:03:00.0)
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:1) -> (device: 1, name: Tesla K20m, pci bus id: 0000:83:00.0)
+[I 21:34:25.363 NotebookApp] Saving file at /MFCC By Year (All Cuts) - Keras.ipynb
+[I 21:35:08.555 NotebookApp] Kernel started: a57888e1-6489-4bc2-bf78-eb989cfe8b05
+[I 21:35:24.542 NotebookApp] Kernel shutdown: df7d7a4c-d894-4236-bd11-967662137479
+[W 21:35:24.556 NotebookApp] delete /MFCC Model.ipynb
+[I 21:36:25.319 NotebookApp] Saving file at /MFCC By Year (All Cuts) - Keras.ipynb
+[I 21:38:25.622 NotebookApp] Saving file at /MFCC By Year (All Cuts) - Keras.ipynb

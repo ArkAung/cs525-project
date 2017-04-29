@@ -1,0 +1,11 @@
+
+
+  Paste ssh command in a terminal on local host (i.e., laptop)
+  ------------------------------------------------------------
+  ssh -N -L 9291:10.141.0.1:9291 aaung@ace
+
+  Open this address in a browser on local host; see token below
+  ------------------------------------------------------------
+  localhost:9291                                      
+
+

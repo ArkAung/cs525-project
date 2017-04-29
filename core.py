@@ -19,6 +19,7 @@ def one_hot_encode(labels):
 def weight_variable(shape, name='W'):
     # He et. al initialization
     n = reduce(lambda x,y:x*y, shape[:-1])
+    print n
     # multiplying patch_x, patch_y and input_channel for convolution layer
     # just taking input channel for fully connceted layer
     # Note: The paper suggets that we should have a different initialization for first layer
